@@ -4,7 +4,7 @@
 #### MERN stack web developer
 
 
-e been addicted to web development since I was a teenager. I believe that people should do things which they are good at. I chose web development as my profession because I think I am good at it. I am always honest and I am not afraid to work hard. I have been working at ReactJs, Javascript, HTML, CSS, node.js, expressJS, MongoDB, etc for almost a year now. 
+I've been addicted to web development since I was a teenager. I believe that people should do things which they are good at. I chose web development as my profession because I think I am good at it. I am always honest and I am not afraid to work hard. I have been working at ReactJs, Javascript, HTML, CSS, node.js, expressJS, MongoDB, etc for almost a year now. 
 
 Skills: REACT / JS / HTML / CSS / expressJS / nodeJS / mongoDB / redux
 
