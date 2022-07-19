@@ -1,4 +1,4 @@
-![MERN stack web developer](https://i.ibb.co/c1qtLqC/programmer.jpg)
+![MERN stack web developer](https://i.ibb.co/QJks1zD/wp8904080-1.jpg)
 
 ### Hi there 👋, I'm Rasel Shah
 #### MERN stack web developer
