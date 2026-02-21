@@ -1,14 +1,14 @@
-![MERN stack web developer](https://i.ibb.co/MCZR9T4/1632233795481-2.jpg)
+![MERN stack web developer]([https://i.ibb.co/MCZR9T4/1632233795481-2.jpg](https://res.cloudinary.com/dgc4lrn1v/image/upload/v1771662633/ChatGPT_Image_Feb_21_2026_02_26_48_PM_q0uuhz.png))
 
 ### Hi 👋, I'm Rasel Shah
-#### MERN stack web developer
+#### Full stack web developer
 
 
-I've been addicted to web development since I was a teenager. I believe that people should do things which they are good at. I chose web development as my profession because I think I am good at it. I am always honest and I am not afraid to work hard. I have been working at ReactJs, Javascript, HTML, CSS, node.js, expressJS, MongoDB, etc for almost a year now. 
+I've been addicted to web development since I was a teenager. I believe that people should do things which they are good at. I chose web development as my profession because I think I am good at it. I am always honest and I am not afraid to work hard. I have been working at ReactJs, Javascript, HTML, CSS, node.js, expressJS, MongoDB, Prisma, PostgreSQL etc for almost a year now. 
 
-Skills: REACT / JS / HTML / CSS / expressJS / nodeJS / mongoDB / redux
+Skills: REACT / JS / HTML / CSS / expressJS / nodeJS / mongoDB / redux / PostgreSQL / Prisma
 
-- 🌱 I’m currently learning nextJS / typescript / React Native 
+- 🌱 I’m currently learning nextJS / typescript / Python
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Developer 
 
