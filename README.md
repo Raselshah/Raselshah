@@ -1,4 +1,4 @@
-![MERN stack web developer]([https://i.ibb.co/MCZR9T4/1632233795481-2.jpg](https://res.cloudinary.com/dgc4lrn1v/image/upload/v1771662633/ChatGPT_Image_Feb_21_2026_02_26_48_PM_q0uuhz.png))
+![MERN stack web developer](https://res.cloudinary.com/dgc4lrn1v/image/upload/v1771662633/ChatGPT_Image_Feb_21_2026_02_26_48_PM_q0uuhz.png)
 
 ### Hi 👋, I'm Rasel Shah
 #### Full stack web developer
