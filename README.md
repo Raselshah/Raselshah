@@ -25,7 +25,7 @@
 ```ts
 const rasel = {
   name        : "Rasel Shah",
-  role        : "Full Stack Developer",
+  role        : "Software Engineer | Full Stack Engineer",
   experience  : "4+ years",
   location    : "Bangladesh 🇧🇩",
   languages   : ["JavaScript", "TypeScript", "Python"],
@@ -33,7 +33,7 @@ const rasel = {
   backend     : ["Node.js", "Express.js", "NestJS"],
   database    : ["MongoDB", "PostgreSQL", "Prisma"],
   devOps      : ["Docker", "AWS", "Git"],
-  architecture: ["REST API", "Microservices", "WebSockets"],
+  architecture: ["REST API", "Microservices", "WebSockets", "Event-Driven Architecture (EDA)"],
   currentFocus: "Scalable systems, cloud architecture & clean code",
   openTo      : "Collaborations, open-source & innovative projects 🤝",
   motto       : "First, solve the problem. Then, write the code. 💡",
@@ -47,7 +47,7 @@ const rasel = {
 - 👯 &nbsp;Looking to collaborate on **open-source & innovative projects**
 - 💬 &nbsp;Ask me about **React · Next.js · Node.js · PostgreSQL · MongoDB · APIs**
 - ⚡ &nbsp;Obsessed with **clean architecture, DRY principles & performance**
-- 📫 &nbsp;Reach me on [LinkedIn](https://www.linkedin.com/in/md-rasel-shah-b085a6228/) or [Twitter](https://twitter.com/MdRaselShah5)
+- 📫 &nbsp;Reach me on [LinkedIn](https://www.linkedin.com/in/md-rasel-shah/) or [Twitter](https://twitter.com/MdRaselShah5)
 
 ---
 
