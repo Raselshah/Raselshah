@@ -7,7 +7,7 @@
 <br/>
 
 
-<img src="./boot.svg" alt="rasel@production — Full Stack Engineer, service running, 4+ years uptime" width="100%"/>
+<img src="./boot.svg" alt="rasel@production — Software Engineer, service running, 4+ years uptime" width="100%"/>
 
 <br/><br/>
 
