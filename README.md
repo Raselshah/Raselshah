@@ -27,7 +27,7 @@
 
 {
   "name": "Rasel Shah",
-  "role": "Full Stack Engineer",
+  "role": "Software Engineer",
   "experience": "4+ years",
   "location": "Bangladesh 🇧🇩",
   "specialty": "turning vague requirements into systems that survive traffic",
