@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rasel+Shah+%F0%9F%91%8B;Full+Stack+Engineer;Software+Engineer;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rasel+Shah+%F0%9F%91%8B;Software+Engineer;Full+Stack+Engineer;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 
 <br/>
 <br/>
